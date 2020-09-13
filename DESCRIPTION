@@ -1,0 +1,12 @@
+Package: Colourednoise
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: George Kazantzidis, John M. Halley
+Maintainer: <George_kazantzidis@outlook.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
